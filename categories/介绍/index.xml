@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>介绍 on Wisteriaaa</title>
-		<link>http://localhost:1313/categories/%E4%BB%8B%E7%BB%8D/</link>
+		<link>https://blog.wisteriaaa.cn/categories/%E4%BB%8B%E7%BB%8D/</link>
 		<description>Recent content in 介绍 on Wisteriaaa</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://blog.wisteriaaa.cn/categories/%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>自我介绍</title>
-				<link>http://localhost:1313/about/</link>
+				<link>https://blog.wisteriaaa.cn/about/</link>
 				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/</guid>
+				<guid>https://blog.wisteriaaa.cn/about/</guid>
 				<description>&lt;h1 id=&#34;一位摄影爱好者&#34;&gt;一位摄影爱好者&lt;/h1&gt;&#xA;&lt;p&gt;我是一位普通的摄影爱好者，过着普通的生活，拍着普通的照片，想要用相机记录下自己平凡的人生旅途，这样可以证明我来过，我存在过…&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;我目前主要进行风光摄影，但也很喜欢人文摄影&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;我相信一张好的照片除了记录绝美的风景外，也应该记录了一段美好的回忆或是一个有意义的故事。&lt;/p&gt;&#xA;&lt;p&gt;或许现在的我做不到将一个故事写进一张照片里，但我一定会把一段回忆留在照片里，因为照一定会有一段回忆。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;这个网站的目的就是向你们分享我的作品&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;我在这里分享我普通的摄影作品，希望大家能够喜欢我的作品，也喜欢我眼里的风景，或许还有我的一些回忆和我记录下来的故事。&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Galleries on Wisteriaaa</title>
-		<link>http://localhost:1313/gallery/</link>
+		<link>https://blog.wisteriaaa.cn/gallery/</link>
 		<description>Recent content in Galleries on Wisteriaaa</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://blog.wisteriaaa.cn/gallery/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>微单｜证大喜马拉雅</title>
-				<link>http://localhost:1313/gallery/20260321_nanjing_zhendahimalaya/</link>
+				<link>https://blog.wisteriaaa.cn/gallery/20260321_nanjing_zhendahimalaya/</link>
 				<pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/gallery/20260321_nanjing_zhendahimalaya/</guid>
+				<guid>https://blog.wisteriaaa.cn/gallery/20260321_nanjing_zhendahimalaya/</guid>
 				<description>&lt;h1 id=&#34;相机参数设置错了&#34;&gt;相机参数设置错了………&lt;/h1&gt;&#xA;&lt;p&gt;在网上看到了证大喜马拉雅这个机位，以及我三脚架刚到，便想着尝试长曝光。&lt;/p&gt;&#xA;&lt;p&gt;不过当时不懂，光圈全开，快门就1.5s，导致我自己后期死活堆栈不出车流灯绘那种效果，反而是将车给堆栈没了。&lt;/p&gt;&#xA;&lt;p&gt;我怀疑了几天是不是我电脑内存爆了的问题都没想到是我参数设置问题。&lt;/p&gt;&#xA;&lt;p&gt;以后有机会再试一次吧……&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>微单｜中山植物园</title>
-				<link>http://localhost:1313/gallery/20260314_nanjing_botanicalgarden/</link>
+				<link>https://blog.wisteriaaa.cn/gallery/20260314_nanjing_botanicalgarden/</link>
 				<pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/gallery/20260314_nanjing_botanicalgarden/</guid>
+				<guid>https://blog.wisteriaaa.cn/gallery/20260314_nanjing_botanicalgarden/</guid>
 				<description>&lt;h1 id=&#34;好像走错路了&#34;&gt;好像走错路了&lt;/h1&gt;&#xA;&lt;p&gt;在网上看中山植物园的樱花很多，我和朋友到地方后我只看到了零星几棵樱花树，也可能是我走错园区了？&lt;/p&gt;&#xA;&lt;p&gt;但是我和朋友当时太热了，并且那里全是人，就打算再看一眼热带植物馆就开溜。但热带植物馆里更热……&lt;/p&gt;&#xA;&lt;p&gt;没招了……&lt;/p&gt;&#xA;&lt;p&gt;第一张其实是好几个月之后才修出来的。&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>胶片｜苏州</title>
-				<link>http://localhost:1313/gallery/20260101_suzhou/</link>
+				<link>https://blog.wisteriaaa.cn/gallery/20260101_suzhou/</link>
 				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/gallery/20260101_suzhou/</guid>
+				<guid>https://blog.wisteriaaa.cn/gallery/20260101_suzhou/</guid>
 				<description>&lt;h1 id=&#34;不尽如人意的游玩体验&#34;&gt;不尽如人意的游玩体验&lt;/h1&gt;&#xA;&lt;p&gt;这次去拍园林，感觉实际看到和想象的并不完全相同，或许是我游玩的季节不对。&lt;/p&gt;&#xA;&lt;p&gt;此外，这次胶卷把我的相机卡坏了，原本回卷的叉子只剩了一只脚，且有不少照片没有回卷直接感光了😭&lt;/p&gt;&#xA;&lt;p&gt;希望没有我喜欢的照片在那些被感光的胶片里吧。&lt;/p&gt;&#xA;&lt;p&gt;这里最后一张其实不是在苏州拍的，因为胶卷没拍完，我就在学校里又按了一点。&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>胶片|南京秦淮</title>
-				<link>http://localhost:1313/gallery/20251227_nanjing_qinhuai/</link>
+				<link>https://blog.wisteriaaa.cn/gallery/20251227_nanjing_qinhuai/</link>
 				<pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/gallery/20251227_nanjing_qinhuai/</guid>
+				<guid>https://blog.wisteriaaa.cn/gallery/20251227_nanjing_qinhuai/</guid>
 				<description>&lt;h1 id=&#34;初次上手minotla-sr-7&#34;&gt;初次上手Minotla SR-7&lt;/h1&gt;&#xA;&lt;p&gt;纯机械的结构让我每次按下快门前都需要用手机测光，要拍下一张照片要不少时间。但这也迫使我花时间思考怎么拍下这张照片，曝光三要素之间的关系，最后在一卷36张照片中选出了两张我认为较好的照片。&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>分享 on Wisteriaaa</title>
-		<link>http://localhost:1313/categories/%E5%88%86%E4%BA%AB/</link>
+		<link>https://blog.wisteriaaa.cn/categories/%E5%88%86%E4%BA%AB/</link>
 		<description>Recent content in 分享 on Wisteriaaa</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://blog.wisteriaaa.cn/categories/%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>个人装备</title>
-				<link>http://localhost:1313/posts/individual_equipment/</link>
+				<link>https://blog.wisteriaaa.cn/posts/individual_equipment/</link>
 				<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/individual_equipment/</guid>
+				<guid>https://blog.wisteriaaa.cn/posts/individual_equipment/</guid>
 				<description>&lt;h1 id=&#34;一台微单一台胶卷&#34;&gt;一台微单，一台胶卷&lt;/h1&gt;&#xA;&lt;p&gt;目前我的相机是一台全画幅微单以及一颗镜头，镜头也在最近从原本的套机镜头升级成了24-120。&lt;/p&gt;&#xA;&lt;p&gt;在买全画幅微单前，我是买了一台Minotla SR-7，外加Cosina 28-70和Minotla 75-200，但是上次胶卷回卷是胶卷把我相机上的那个回卷的叉子崩断了一半，不知道还能不能用了😮‍💨。&lt;/p&gt;&#xA;&lt;p&gt;经常有人调侃我的“传奇连拍王”相机，但是对于我而言，目前它的性能肯定是绰绰有余了，在买它之前也是经过长时间的考虑，适合自己最重要，而不是为了一大堆用不着的功能多花很多钱。&lt;/p&gt;&#xA;&lt;p&gt;不如用省下的钱多出去走走，看看这个世界。&lt;/p&gt;</description>
 			</item>
 	</channel>
