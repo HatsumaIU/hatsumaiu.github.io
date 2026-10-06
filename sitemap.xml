@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.wisteriaaa.cn/gallery/</loc>
+    <lastmod>2026-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.wisteriaaa.cn/</loc>
+    <lastmod>2026-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.wisteriaaa.cn/gallery/20260927_anhui_mounthuan/</loc>
+    <lastmod>2026-09-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.wisteriaaa.cn/categories/</loc>
     <lastmod>2026-09-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2026-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.wisteriaaa.cn/tags/</loc>
-    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.wisteriaaa.cn/</loc>
     <lastmod>2026-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.wisteriaaa.cn/categories/%E5%88%86%E4%BA%AB/</loc>
@@ -31,9 +37,6 @@
   </url><url>
     <loc>https://blog.wisteriaaa.cn/about/</loc>
     <lastmod>2026-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.wisteriaaa.cn/gallery/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.wisteriaaa.cn/gallery/20260328_nanjing_xuanwu_lake_park/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
